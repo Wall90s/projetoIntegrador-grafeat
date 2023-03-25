@@ -62,5 +62,7 @@ Embora eu seja nova no área, concluí cursos de HTML, CSS, JavaScript, Java e t
 
 Estou animada para contribuir com minhas habilidades e aprender com desenvolvedores experientes para criar aplicativos da Web de ponta. Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos que me permite aprender novas tecnologias com facilidade e velocidade.
 
+Entendo que esta profissão requer um alto nível de adaptabilidade e habilidades de resolução de problemas, e estou confiante em minhas capacidades. Não tenho medo de fazer perguntas ou buscar ajuda quando necessário e estou empenhada em me manter atualizada com as últimas tendências e melhores práticas para ser uma desenvolvedora bem-sucedida e de excelência.
+
 
 [@giyodias](https://github.com/giyodias), [@LeticiaPires12](https://github.com/LeticiaPires12), [@pedroapinheiro](https://github.com/pedroapinheiro),  e [@Wall90s](https://github.com/Wall90s)
