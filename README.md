@@ -51,6 +51,18 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
 
 
 ##
+
+<img width="200px" src="https://user-images.githubusercontent.com/123910027/227813701-6e3a47a9-65cb-4d7f-bb24-2814a031f4c7.jpg" alt="Imagem de Giyo Dias"></br>
+  - [LinkedIn](https://www.linkedin.com/in/giyodias/)
+  - [GitHub](https://github.com/giyodias)
+<h3>Giyo Dias</h3>
+<h3>Sobre mim</h3>
+Olá, Sou o Giyo, tenho 19 anos e estou em transição de carreira para a área tech. Adoro estudar e aprender coisas novas em diversas áreas, principalmente em programação. Curso ADS na FATEC e estou no bootcamp Java Full-Stack da Generation Brasil.
+Tenho soft skills bem desenvolvidas e sou um membro proativo de grupos, possuo capacidade de liderança e analítica, empatia, e tenho experiência em resolução de problemas.
+
+Aberto a propostas de emprego! Então, se estiver interessade em meu perfil, me mande uma mensagem e vamos trabalhar juntes!
+
+##
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227732191-4385c938-5b77-4feb-8d64-a5b486763fdd.jpg" alt="Imagem de Samantha Alexandra Pereira"></br>
   - [LinkedIn](https://www.linkedin.com/in/samantha-alexandra-pereira/)
   - [GitHub](https://github.com/SammyLexa)
@@ -63,6 +75,7 @@ Embora eu seja nova no área, concluí cursos de HTML, CSS, JavaScript, Java e t
 Estou animada para contribuir com minhas habilidades e aprender com desenvolvedores experientes para criar aplicativos da Web de ponta. Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos que me permite aprender novas tecnologias com facilidade e velocidade.
 
 Entendo que esta profissão requer um alto nível de adaptabilidade e habilidades de resolução de problemas, e estou confiante em minhas capacidades. Não tenho medo de fazer perguntas ou buscar ajuda quando necessário e estou empenhada em me manter atualizada com as últimas tendências e melhores práticas para ser uma desenvolvedora bem-sucedida e de excelência.
+##
 
 
-[@giyodias](https://github.com/giyodias), [@LeticiaPires12](https://github.com/LeticiaPires12), [@pedroapinheiro](https://github.com/pedroapinheiro),  e [@Wall90s](https://github.com/Wall90s)
+[@LeticiaPires12](https://github.com/LeticiaPires12), [@pedroapinheiro](https://github.com/pedroapinheiro),  e [@Wall90s](https://github.com/Wall90s)
