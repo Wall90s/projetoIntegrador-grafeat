@@ -63,6 +63,16 @@ Tenho soft skills bem desenvolvidas e sou um membro proativo de grupos, possuo c
 Aberto a propostas de emprego! Então, se estiver interessade em meu perfil, me mande uma mensagem e vamos trabalhar juntes!
 
 ##
+
+<img width="200px" src="https://user-images.githubusercontent.com/123910027/227933299-9c3ec1c6-f11f-4214-8597-6d055618ac28.jpg" alt="Pedro"></br>
+  - [LinkedIn](https://www.linkedin.com/in/pedro-azevedo-2147661b5/)
+  - [GitHub](https://github.com/pedroapinheiro)
+<h3>Pedro Azevedo</h3>
+<h3>Sobre mim</h3>
+Formação em Gestão de Eventos pela Universidade Positivo - PR. Em Curitiba fiz estágio no ano de 2019 na empresa Mark Messe e migrei para a empresa Cafexpo, atuando no cargo de Auxiliar de Produtor de Eventos. 
+
+##
+
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227732191-4385c938-5b77-4feb-8d64-a5b486763fdd.jpg" alt="Imagem de Samantha Alexandra Pereira"></br>
   - [LinkedIn](https://www.linkedin.com/in/samantha-alexandra-pereira/)
   - [GitHub](https://github.com/SammyLexa)
@@ -75,7 +85,17 @@ Embora eu seja nova no área, concluí cursos de HTML, CSS, JavaScript, Java e t
 Estou animada para contribuir com minhas habilidades e aprender com desenvolvedores experientes para criar aplicativos da Web de ponta. Possuo um perfil com disposição para o aprendizado e aprimoramento contínuos que me permite aprender novas tecnologias com facilidade e velocidade.
 
 Entendo que esta profissão requer um alto nível de adaptabilidade e habilidades de resolução de problemas, e estou confiante em minhas capacidades. Não tenho medo de fazer perguntas ou buscar ajuda quando necessário e estou empenhada em me manter atualizada com as últimas tendências e melhores práticas para ser uma desenvolvedora bem-sucedida e de excelência.
+
+##
+<img width="200px" src="https://user-images.githubusercontent.com/123910027/227934144-deab4127-fa4a-48e3-9653-71033e1ba670.jpg" alt="Wallace"></br>
+  - [LinkedIn](https://www.linkedin.com/in/wallacesb/)
+  - [GitHub](https://github.com/Wall90s)
+<h3>Wallace Silva Brito</h3>
+<h3>Sobre mim</h3>
+Invenções e Tecnologias são dois assuntos que sempre fizeram meus olhos brilharem, me fazendo pesquisar e/ou conversar por horas. Depois de um tempo entendi que poderia unir os dois na área de desenvolvimento, desde que é claro, me dedicasse bastante, e é isso que tenho feito. Estudar todos os dias, conhecer novas tecnologias e aplicações, praticar o que já conheço, são alguns itens da minha rotina. Nisso vão horas com palestras, cursos e exercícios, que só me deixam mais interessado por esse oceano de possibilidades, e me ajudará a ser um ótimo Desenvolvedor de Sistemas Full Stack.
+
 ##
 
 
-[@LeticiaPires12](https://github.com/LeticiaPires12), [@pedroapinheiro](https://github.com/pedroapinheiro),  e [@Wall90s](https://github.com/Wall90s)
+
+[@LeticiaPires12](https://github.com/LeticiaPires12),
