@@ -22,7 +22,7 @@ Projeto desenvolvido durante o segundo módulo do bootcamp de Java Full Stack da
 
 ##
 
-<h3>O que é o programa da Generation Brasil Devesenvolvedora Java Full-Stack?🎓</h3>
+<h3>O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?🎓</h3>
 
 O programa prático da Generation tem duração de 3 meses (447 H) e ensina as habilidades técnicas e comportamentais para ser um desenvolvedor Java Full-Stack com sessões interativas e práticas.
 
