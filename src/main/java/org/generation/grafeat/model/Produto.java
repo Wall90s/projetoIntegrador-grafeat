@@ -50,6 +50,10 @@ public class Produto {
 	@ManyToOne
 	@JsonIgnoreProperties("produto")
 	private Categoria categoria;
+	
+	@ManyToOne
+	@JsonIgnoreProperties("produto")
+	private Vendedor vendedor;
 
 	public Long getId() {
 		return id;
@@ -123,5 +127,11 @@ public class Produto {
 		this.categoria = categoria;
 	}
 
-	
+	public Vendedor getVendedor() {
+		return vendedor;
+	}
+
+	public void setVendedor(Vendedor vendedor) {
+		this.vendedor = vendedor;
+	}
 }

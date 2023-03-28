@@ -48,6 +48,10 @@ public class Vendedor {
 	@NotBlank(message = "O tipo de pagamento não pode ser vazio")
 	private String tipoDePagamento;
 
+	@OneToMany(mappedBy = "vendedor", cascade = CascadeType.REMOVE)
+	@JsonIgnoreProperties("vendedor")
+	private List<Produto> produto;
+	
 	public Long getId() {
 		return id;
 	}
@@ -110,6 +114,14 @@ public class Vendedor {
 
 	public void setTipoDePagamento(String tipoDePagamento) {
 		this.tipoDePagamento = tipoDePagamento;
+	}
+
+	public List<Produto> getProduto() {
+		return produto;
+	}
+
+	public void setProduto(List<Produto> produto) {
+		this.produto = produto;
 	}
 	
 }
