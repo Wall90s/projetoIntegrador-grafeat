@@ -33,9 +33,7 @@ public class ProdutoController {
 	
 	@Autowired
 	private CategoriaRepository categoriaRepository;
-	
-	/*Adicionar VendedorRepository*/
-	
+
 	@GetMapping
 	public ResponseEntity<List<Produto>> ListarTodos(){
 		return ResponseEntity.ok(produtoRepository.findAll());
