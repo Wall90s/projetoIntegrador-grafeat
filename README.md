@@ -1,4 +1,4 @@
-# Grafeat: Parte da Arte .
+# Grafeat: Parte da Arte 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat-square)
 ![Badge Java](http://img.shields.io/static/v1?label=JAVA&message=v11&color=blue&style=flat-square)
