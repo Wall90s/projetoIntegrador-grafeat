@@ -1,4 +1,4 @@
-# Grafeat
+# Grafeat: Parte da Arte
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat-square)
 ![Badge Java](http://img.shields.io/static/v1?label=JAVA&message=v11&color=blue&style=flat-square)
@@ -8,8 +8,30 @@
 
 ## Introdução
 
-O software será um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.
-Projeto desenvolvido durante o segundo módulo do bootcamp de Java Full Stack da Generation Brasil.
+A ODS (Objetivos de Desenvolvimento Sustentável¹) 10: “Reduzir a desigualdade dentro dos países e entre eles” possui dez metas a serem alcançadas até 2030, sendo as principais delas: reduzir as desigualdades de renda ; promover a inclusão social, econômica e política universal; garantir oportunidades iguais e acabar com a discriminação;
+
+De acordo com o estudo pelo FGV Social, “O contingente de pessoas com renda domiciliar per capita de até R$ 497 mensais atingiu 62,9 milhões de brasileiros em 2021, o que representa 29,6% da população total do país”, o que denota uma disparidade econômica e social, resultando na dificuldade no alcance e sustentação do crescimento da renda exigido pela ODS.
+
+## Desenvolvimento:
+O software é um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. 
+
+Nosso projeto terá um foco em comunidades periféricas, atraindo jovens e adultos para que possam obter sustento digno e responsável através de suas habilidades e possibilitar a inclusão na arte e cultura. 
+
+Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.
+
+## Conclusão:
+Consequentemente, resultando na conclusão das metas da ODS através de: visibilidade e renda para as comunidades vulneráveis sociais e econômica a respeito de seus trabalhos; Incentivar a cultura, e confecções locais; Criar um ambiente empoderador em que se possa ter a possibilidade de viver a partir do seu próprio trabalho;
+
+#### Dicionário: 1 - Os Objetivos de Desenvolvimento Sustentável são um apelo global da ONU(Organização das Nações Unidas) à ação para acabar com a pobreza, proteger o meio ambiente e o clima e garantir que as pessoas, em todos os lugares, possam desfrutar de paz e de prosperidade.
+
+## Bibliografia:
+
+NAÇÕES UNIDAS NO BRASIL (Brasil) (org.). Redução das desigualdades. Disponível em: https://brasil.un.org/pt-br/sdgs/10. Acesso em: 29 mar. 2023.
+
+WIKIPEDIA (Brasil) (comp.). Objetivo de Desenvolvimento Sustentável 10. Disponível em: https://pt.wikipedia.org/wiki/Objetivo_de_Desenvolvimento_Sustent%C3%A1vel_10. Acesso em: 29 mar. 2023.
+
+MARCELO NERI (Brasil). Mapa da Nova Pobreza. Disponível em: https://cps.fgv.br/MapaNovaPobreza. Acesso em: 29 mar. 2023.
+
 
 ## Funcionalidades: CRUD (Create ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png), Read ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png), Update![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png), Delete ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png))
 - Cadastra Produto ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
