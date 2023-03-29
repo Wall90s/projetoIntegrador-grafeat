@@ -11,6 +11,25 @@
 O software será um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.
 Projeto desenvolvido durante o segundo módulo do bootcamp de Java Full Stack da Generation Brasil.
 
+## Funcionalidades: CRUD (Create ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png), Read ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png), Update![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png), Delete ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png))
+- Cadastra Produto ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
+- Cadastra Categoria ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
+- Cadastra Vendedor![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
+- Consulta por ID de Produto ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta por ID de Categoria ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta por ID de Vendedor ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta por Nome de Produto ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta por Descrição de Produto ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta por Nome de Categoria ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta Todos os Produtos ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta Todas as Categorias ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Consulta Todos os Vendedores ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
+- Atualiza Produto ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png)
+- Atualiza Categoria ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png)
+- Atualiza Vendedor ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png)
+- Deleta Produto ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
+- Deleta Categoria ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
+- Deleta Vendedor ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
 
 <h3>Ferramentas, Linguagens, Frameworks e Banco de Dados utilizados: Java com Spring, Insomnia e MySQL.</h3>
 <div style="display: inline_block"><br>
