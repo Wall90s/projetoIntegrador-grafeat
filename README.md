@@ -6,6 +6,8 @@
 ![Badge MySQL](http://img.shields.io/static/v1?label=MYSQL&message=v8.0.28&color=blue&style=flat-square)
 ![Badge Insomnia](http://img.shields.io/static/v1?label=INSOMNIA&message=v2023.1.0&color=blue&style=flat-square)
 
+- [Desenvolvedores](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/README.md#equipe-de-desenvolvedores)
+
 ## Introdução
 
 A ODS (Objetivos de Desenvolvimento Sustentável¹) 10: “Reduzir a desigualdade dentro dos países e entre eles” possui dez metas a serem alcançadas até 2030, sendo as principais delas: reduzir as desigualdades de renda ; promover a inclusão social, econômica e política universal; garantir oportunidades iguais e acabar com a discriminação;
