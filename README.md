@@ -6,10 +6,10 @@
 ![Badge MySQL](http://img.shields.io/static/v1?label=MYSQL&message=v8.0.28&color=blue&style=flat-square)
 ![Badge Insomnia](http://img.shields.io/static/v1?label=INSOMNIA&message=v2023.1.0&color=blue&style=flat-square)
 
-- [Introdução](https://github.com/SammyLexa/projetoIntegrador-grafeat/edit/main/README.md#introdu%C3%A7%C3%A3o)
-- [Funcionalidades](https://github.com/SammyLexa/projetoIntegrador-grafeat/edit/main/README.md#funcionalidades-crud-create--read--update-delete-)
-- [O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?](https://github.com/SammyLexa/projetoIntegrador-grafeat/edit/main/README.md#o-que-%C3%A9-o-programa-da-generation-brasil-devesenvolvedor-java-full-stack)
-- [Equipe de Desenvolvedores](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/README.md#equipe-de-desenvolvedores)
+- [Introdução](#introdução)
+- [Funcionalidades](#funcionalidades)
+- [O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?](#o-que-%C3%A9-o-programa-da-generation-brasil-devesenvolvedor-java-full-stack)
+- [Equipe de Desenvolvedores](#equipe-de-desenvolvedores)
 
 ## Introdução
 
