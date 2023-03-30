@@ -33,7 +33,7 @@ public class Vendedor {
 	private String usuario;
 	
 	@NotBlank(message = "A senha do vendedor não pode ser vazio")
-	@Size(min = 7, max = 100, message = "A senha deve conter no mínimo 7 e no máximo 100 caracteres.")
+	@Size(min = 8, max = 100, message = "A senha deve conter no mínimo 8 e no máximo 100 caracteres.")
 	private String senha;
 	
 	@NotBlank(message = "A foto do vendedor não pode ser vazio")
