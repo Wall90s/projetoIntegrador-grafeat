@@ -119,7 +119,7 @@ Aberto a propostas de emprego! Então, se estiver interessade em meu perfil, me 
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227977478-28ec7b2e-7a22-4908-b7a0-b024b83c44bf.jpg" alt="Leticia Pires de Souza"></br>
   - [LinkedIn](https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/)
-  - [GitHub]([https://github.com/Wall90s](https://github.com/LeticiaPires12))
+  - [GitHub](https://github.com/LeticiaPires12)
 <h3>Leticia Pires de Souza</h3>
 <h3>Sobre mim</h3>
 Estou em transição de carreira e atualmente sou estudante do curso fornecido pela Generation Brasil - Java Full Stack Júnior, sou esforçada e autodidata. Gosto de ler, praticar esportes e defendo open source. Atualmente estudo o universo Java, Spring e Microservices. Tenho interesse em ser inserida no mercado de trabalho. Meu maior desafio é desenvolver um portfólio pessoal.
