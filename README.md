@@ -91,7 +91,7 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
   <img width="200px" src="https://user-images.githubusercontent.com/123910027/227731448-d2d5f056-e4cd-4751-bd9f-ff2ae49ec699.jpg" alt="Imagem de Caroline Viana">
   
   - [LinkedIn](https://www.linkedin.com/in/caroline-viana-de-medeiros/)
-  - [Github](https://github.com/Caroline-Viana)
+  - [GitHub](https://github.com/Caroline-Viana)
   <h3>Caroline Viana</h3>
   <h3>Sobre mim</h3>
   <p>Olá, meu nome é Caroline Viana de Medeiros e tenho 22 anos. Sou formada em Gestão de Turismo, pelo Instituto Federal de São Paulo e, apesar de ter adorado a área, sempre tive um grande amor pela tecnologia. Por isso, decidi fazer uma transição de carreira para a programação e hoje estou me qualificando com o objetivo de trabalhar nesse campo!</p>
