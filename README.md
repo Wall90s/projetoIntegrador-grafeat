@@ -11,7 +11,7 @@
 - [O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?](#o-que-%C3%A9-o-programa-da-generation-brasil-devesenvolvedor-java-full-stack)
 - [Equipe de Desenvolvedores:](#equipe-de-desenvolvedores)
     - [Caroline Viana](#caroline-viana)
-    - [Giyo Dias](https://github.com/SammyLexa/projetoIntegrador-grafeat/edit/main/README.md#giyo-dias)
+    - [Giyo Dias](#giyo-dias)
     - [Leticia Pires de Souza](#leticia-pires-de-souza)
     - [Pedro Azevedo](#pedro-azevedo)
     - [Samantha Alexandra Pereira](#samantha-alexandra-pereira)
