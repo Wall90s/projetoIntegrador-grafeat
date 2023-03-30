@@ -151,7 +151,7 @@ Entendo que esta profissão requer um alto nível de adaptabilidade e habilidade
 ##
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227934144-deab4127-fa4a-48e3-9653-71033e1ba670.jpg" alt="Wallace"></br>
   - [LinkedIn](https://www.linkedin.com/in/wallacesb/)
-  - [GitHub](https://github.com/LeticiaPires12)
+  - [GitHub]([https://github.com/LeticiaPires12](https://github.com/Wall90s))
 <h3>Wallace Silva Brito</h3>
 <h3>Sobre mim</h3>
 Invenções e Tecnologias são dois assuntos que sempre fizeram meus olhos brilharem, me fazendo pesquisar e/ou conversar por horas. Depois de um tempo entendi que poderia unir os dois na área de desenvolvimento, desde que é claro, me dedicasse bastante, e é isso que tenho feito. Estudar todos os dias, conhecer novas tecnologias e aplicações, praticar o que já conheço, são alguns itens da minha rotina. Nisso vão horas com palestras, cursos e exercícios, que só me deixam mais interessado por esse oceano de possibilidades, e me ajudará a ser um ótimo Desenvolvedor de Sistemas Full Stack.
