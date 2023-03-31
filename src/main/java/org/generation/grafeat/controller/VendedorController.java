@@ -9,7 +9,6 @@ import org.generation.grafeat.model.VendedorLogin;
 import org.generation.grafeat.repository.VendedorRepository;
 import org.generation.grafeat.service.VendedorService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -30,7 +29,6 @@ public class VendedorController {
 	private VendedorService vendedorService;
 	
 	@Autowired
-	//@Qualifier("repository")
 	private VendedorRepository vendedorRepository;
 	
 	@GetMapping ("/all")

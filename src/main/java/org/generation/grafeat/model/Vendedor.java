@@ -16,6 +16,8 @@ import javax.validation.constraints.Size;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import io.swagger.v3.oas.annotations.media.Schema;
+
 @Entity
 @Table(name = "tb_vendedores")
 public class Vendedor {
@@ -25,15 +27,16 @@ public class Vendedor {
 	private Long id;
 	
 	@NotBlank(message = "O nome do vendedor não pode ser vazio")
-	@Size(min = 7, max = 100, message = "O nome deve conter no mínimo 7 e no máximo 100 caracteres.")
+	@Size(min = 4, max = 100, message = "O nome deve conter no mínimo 7 e no máximo 100 caracteres.")
 	private String nomeVendedor;
 	
+	@Schema(example = "email@email.com.br")
 	@NotBlank(message = "O email do vendedor não pode ser vazio")
 	@Size(min = 7, max = 100, message = "O email deve conter no mínimo 7 e no máximo 100 caracteres.")
 	private String usuario;
 	
 	@NotBlank(message = "A senha do vendedor não pode ser vazio")
-	@Size(min = 7, max = 100, message = "A senha deve conter no mínimo 7 e no máximo 100 caracteres.")
+	@Size(min = 8, max = 100, message = "A senha deve conter no mínimo 8 e no máximo 100 caracteres.")
 	private String senha;
 	
 	@NotBlank(message = "A foto do vendedor não pode ser vazio")
