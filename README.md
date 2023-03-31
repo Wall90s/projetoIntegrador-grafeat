@@ -1,4 +1,6 @@
 # Grafeat: Parte da Arte 
+## ![WhatsApp Image 2023-03-30 at 11 11 35](https://user-images.githubusercontent.com/123910027/229203596-92f71f75-9f66-42eb-b159-7d43e1e6f6ad.jpeg)
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat-square)
 ![Badge Java](http://img.shields.io/static/v1?label=JAVA&message=v11&color=blue&style=flat-square)
