@@ -1,4 +1,5 @@
 ## Primeiros Passos: 1 - Cadastrar Usuário
+### Em costrução, não concluido
 Devemos cadastrar um usuário, pois devido a implementação de Spring Security (um framework para Java, que provê autenticação, autorização e muitas outras funcionalidades) se torna obrigatório, por questões de segurança e proteção de dados. O usuário então deve inserir, nome, email, foto, localidade, data de nascimento (padrão americano yyyy-mm-dd ex: 1980/03/23) e tipo de pagamento (Pix, Saque)
 - Obrigatórios: nome, usuario(email), senha, foto, tipo de pagamento
 - Opcionais: localidade
