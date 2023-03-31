@@ -29,7 +29,7 @@ Caso seja necessário, o Vendedor poderá alterar suas informações, basta inse
 
 ## 1 - Cadastrar Categoria: 
 
-Devido ao relacionamento de classes, não podemos cadastrar um Produto sem antes adicionar uma categoria , pois o @OneToMany (Um para muitos) ou seja, uma categoria que possui muitos produtos, ao ser requisitada irá obrigatoriamente trazer produto junto com ela (relação bidimensional) e o mesmo acontece em produto.
+Devido ao relacionamento de classes, não podemos cadastrar um Produto sem antes adicionar uma categoria , pois o @OneToMany (Um para muitos) ou seja, uma categoria que possui muitos produtos, ao ser requisitada irá obrigatoriamente trazer produto junto com ela (relação bidimensional) e o mesmo acontece em produto como veremos mais a frente.
 
 Insira um nome da categoria e uma descrição sobre ela, se for bem-secedido um id de categoria será gerado.
 
