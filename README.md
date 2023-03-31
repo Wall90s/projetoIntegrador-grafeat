@@ -8,6 +8,8 @@
 
 - [Introdução](#introdução)
 - [Funcionalidades](#funcionalidades-crud-create--read--update-delete-)
+- [Diagrama de Classes](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/DiagramaClasses.md)
+- [Testes com o Framework Insomnia](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/Testes.md)
 - [O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?](#o-que-%C3%A9-o-programa-da-generation-brasil-devesenvolvedor-java-full-stack)
 - [Equipe de Desenvolvedores:](#equipe-de-desenvolvedores)
     - [Caroline Viana](#caroline-viana)
