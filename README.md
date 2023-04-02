@@ -135,7 +135,11 @@ Estou em transição de carreira e atualmente sou estudante do curso fornecido p
   - [GitHub](https://github.com/pedroapinheiro)
 <h3>Pedro Azevedo</h3>
 <h3>Sobre mim</h3>
-Formação em Gestão de Eventos pela Universidade Positivo - PR. Em Curitiba fiz estágio no ano de 2019 na empresa Mark Messe e migrei para a empresa Cafexpo, atuando no cargo de Auxiliar de Produtor de Eventos. 
+Sou o Pedro, tenho 23 anos e estou em transição de carreira para a área tecnologia. Sou formado em gestão de eventos e desde então comecei a ter a contato com a tecnologia a cada trabalho desenvolvido, isso me trouxe uma imensa vontade de conhecer melhor a área e hoje estou finalizando o curso de Desenvolvedor JAVA Full Stack pela Generation Brasil. 
+
+Soft skills: sei trabalhar em equipe, liderança desenvolvida em cargos que já atuei, empatia e orientação aos detalhes.
+
+Ficou interessade em meu perfil e quer conhecer mais sobre minha jornada? Te convido a entrar em contato pelos links abaixo. Meu GitHub para ver meus projetos, mande uma mensagem ou me envie um e-mail e vamos trabalhar juntes! ;D
 
 ##
 
