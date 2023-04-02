@@ -95,7 +95,7 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
   <img width="200px" src="https://user-images.githubusercontent.com/123910027/227731448-d2d5f056-e4cd-4751-bd9f-ff2ae49ec699.jpg" alt="Imagem de Caroline Viana">
   
   - <a href="https://www.linkedin.com/in/caroline-viana-de-medeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  - [GitHub](https://github.com/Caroline-Viana)
+  - <a href="https://github.com/Caroline-Viana" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   <h3>Caroline Viana</h3>
   <h3>Sobre mim</h3>
   <p>Olá, meu nome é Caroline Viana de Medeiros e tenho 22 anos. Sou formada em Gestão de Turismo, pelo Instituto Federal de São Paulo e, apesar de ter adorado a área, sempre tive um grande amor pela tecnologia. Por isso, decidi fazer uma transição de carreira para a programação e hoje estou me qualificando com o objetivo de trabalhar nesse campo!</p>
@@ -111,7 +111,7 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227813701-6e3a47a9-65cb-4d7f-bb24-2814a031f4c7.jpg" alt="Imagem de Giyo Dias"></br>
   - <a href="https://www.linkedin.com/in/giyodias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  - [GitHub](https://github.com/giyodias)
+  - <a href="https://github.com/giyodias" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 <h3>Giyo Dias</h3>
 <h3>Sobre mim</h3>
 Olá, Sou o Giyo, tenho 19 anos e estou em transição de carreira para a área tech. Adoro estudar e aprender coisas novas em diversas áreas, principalmente em programação. Curso ADS na FATEC e estou no bootcamp Java Full-Stack da Generation Brasil.
@@ -123,7 +123,7 @@ Aberto a propostas de emprego! Então, se estiver interessade em meu perfil, me 
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227977478-28ec7b2e-7a22-4908-b7a0-b024b83c44bf.jpg" alt="Leticia Pires de Souza"></br>
   - <a href="https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  - [GitHub](https://github.com/LeticiaPires12)
+  - <a href="https://github.com/LeticiaPires12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 <h3>Leticia Pires de Souza</h3>
 <h3>Sobre mim</h3>
 Estou em transição de carreira e atualmente sou estudante do curso fornecido pela Generation Brasil - Java Full Stack Júnior, sou esforçada e autodidata. Gosto de ler, praticar esportes e defendo open source. Atualmente estudo o universo Java, Spring e Microservices. Tenho interesse em ser inserida no mercado de trabalho. Meu maior desafio é desenvolver um portfólio pessoal.
@@ -132,7 +132,7 @@ Estou em transição de carreira e atualmente sou estudante do curso fornecido p
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227933299-9c3ec1c6-f11f-4214-8597-6d055618ac28.jpg" alt="Pedro"></br>
   - <a href="https://www.linkedin.com/in/pedro-azevedo-2147661b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  - [GitHub](https://github.com/pedroapinheiro)
+  - <a href="https://github.com/pedroapinheiro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 <h3>Pedro Azevedo</h3>
 <h3>Sobre mim</h3>
 Sou o Pedro, tenho 23 anos e estou em transição de carreira para a área tecnologia. Sou formado em gestão de eventos e desde então comecei a ter a contato com a tecnologia a cada trabalho desenvolvido, isso me trouxe uma imensa vontade de conhecer melhor a área e hoje estou finalizando o curso de Desenvolvedor JAVA Full Stack pela Generation Brasil. 
@@ -145,7 +145,7 @@ Ficou interessade em meu perfil e quer conhecer mais sobre minha jornada? Te con
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227732191-4385c938-5b77-4feb-8d64-a5b486763fdd.jpg" alt="Imagem de Samantha Alexandra Pereira"></br>
   - <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  - [GitHub](https://github.com/SammyLexa)
+  - <a href="https://github.com/SammyLexa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 <h3>Samantha Alexandra Pereira</h3>
 <h3>Sobre mim</h3>
 Sou aspirante a Desenvolvedora Web Full-Stack, estou ansiosa para aprender e crescer na área de desenvolvimento web. Minha paixão por criar páginas web envolventes, acessíveis e fáceis de usar me levou a seguir a carreira de desenvolvimento.💻
@@ -159,7 +159,7 @@ Entendo que esta profissão requer um alto nível de adaptabilidade e habilidade
 ##
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227934144-deab4127-fa4a-48e3-9653-71033e1ba670.jpg" alt="Wallace"></br>
   - <a href="https://www.linkedin.com/in/wallacesb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  - [GitHub](https://github.com/Wall90s)
+  - <a href="https://github.com/Wall90s" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 <h3>Wallace Silva Brito</h3>
 <h3>Sobre mim</h3>
 Invenções e Tecnologias são dois assuntos que sempre fizeram meus olhos brilharem, me fazendo pesquisar e/ou conversar por horas. Depois de um tempo entendi que poderia unir os dois na área de desenvolvimento, desde que é claro, me dedicasse bastante, e é isso que tenho feito. Estudar todos os dias, conhecer novas tecnologias e aplicações, praticar o que já conheço, são alguns itens da minha rotina. Nisso vão horas com palestras, cursos e exercícios, que só me deixam mais interessado por esse oceano de possibilidades, e me ajudará a ser um ótimo Desenvolvedor de Sistemas Full Stack.
