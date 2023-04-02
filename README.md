@@ -94,7 +94,7 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
 <br>
   <img width="200px" src="https://user-images.githubusercontent.com/123910027/227731448-d2d5f056-e4cd-4751-bd9f-ff2ae49ec699.jpg" alt="Imagem de Caroline Viana">
   
-  - [LinkedIn](https://www.linkedin.com/in/caroline-viana-de-medeiros/)
+  - <a href="https://www.linkedin.com/in/caroline-viana-de-medeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - [GitHub](https://github.com/Caroline-Viana)
   <h3>Caroline Viana</h3>
   <h3>Sobre mim</h3>
@@ -110,7 +110,7 @@ O programa prático da Generation tem duração de 3 meses (447 H) e ensina as h
 ##
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227813701-6e3a47a9-65cb-4d7f-bb24-2814a031f4c7.jpg" alt="Imagem de Giyo Dias"></br>
-  - [LinkedIn](https://www.linkedin.com/in/giyodias/)
+  - <a href="https://www.linkedin.com/in/giyodias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - [GitHub](https://github.com/giyodias)
 <h3>Giyo Dias</h3>
 <h3>Sobre mim</h3>
@@ -122,7 +122,7 @@ Aberto a propostas de emprego! Então, se estiver interessade em meu perfil, me 
 ##
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227977478-28ec7b2e-7a22-4908-b7a0-b024b83c44bf.jpg" alt="Leticia Pires de Souza"></br>
-  - [LinkedIn](https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/)
+  - <a href="https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - [GitHub](https://github.com/LeticiaPires12)
 <h3>Leticia Pires de Souza</h3>
 <h3>Sobre mim</h3>
@@ -131,7 +131,7 @@ Estou em transição de carreira e atualmente sou estudante do curso fornecido p
 ##
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227933299-9c3ec1c6-f11f-4214-8597-6d055618ac28.jpg" alt="Pedro"></br>
-  - [LinkedIn](https://www.linkedin.com/in/pedro-azevedo-2147661b5/)
+  - <a href="https://www.linkedin.com/in/pedro-azevedo-2147661b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - [GitHub](https://github.com/pedroapinheiro)
 <h3>Pedro Azevedo</h3>
 <h3>Sobre mim</h3>
@@ -144,7 +144,7 @@ Ficou interessade em meu perfil e quer conhecer mais sobre minha jornada? Te con
 ##
 
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227732191-4385c938-5b77-4feb-8d64-a5b486763fdd.jpg" alt="Imagem de Samantha Alexandra Pereira"></br>
-  - [LinkedIn](https://www.linkedin.com/in/samantha-alexandra-pereira/)
+  - <a href="https://www.linkedin.com/in/samantha-alexandra-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - [GitHub](https://github.com/SammyLexa)
 <h3>Samantha Alexandra Pereira</h3>
 <h3>Sobre mim</h3>
@@ -158,7 +158,7 @@ Entendo que esta profissão requer um alto nível de adaptabilidade e habilidade
 
 ##
 <img width="200px" src="https://user-images.githubusercontent.com/123910027/227934144-deab4127-fa4a-48e3-9653-71033e1ba670.jpg" alt="Wallace"></br>
-  - [LinkedIn](https://www.linkedin.com/in/wallacesb/)
+  - <a href="https://www.linkedin.com/in/wallacesb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - [GitHub](https://github.com/Wall90s)
 <h3>Wallace Silva Brito</h3>
 <h3>Sobre mim</h3>
