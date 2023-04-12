@@ -10,7 +10,7 @@
 
 - [Introdução](#introdução)
 - [Funcionalidades](#funcionalidades-crud-create--read--update-delete-)
-- [Documentação](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/Documenta%C3%A7%C3%A3o.md)
+- [Documentação](#documenta%C3%A7%C3%A3o-do-grafeat)
 - [Diagrama de Classes](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/DiagramaClasses.md)
 - [Testes com o Framework Insomnia](https://github.com/SammyLexa/projetoIntegrador-grafeat/blob/main/Testes.md)
 - [O que é o programa da Generation Brasil Devesenvolvedor Java Full-Stack?](#o-que-%C3%A9-o-programa-da-generation-brasil-devesenvolvedor-java-full-stack)
@@ -68,6 +68,17 @@ MARCELO NERI (Brasil). Mapa da Nova Pobreza. Disponível em: https://cps.fgv.br/
 - Deleta Produto ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
 - Deleta Categoria ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
 - Deleta Vendedor ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
+
+# Documentação do Grafeat
+
+
+![image](https://user-images.githubusercontent.com/123910027/231561684-47b13bc5-6be8-42d1-ae99-0305c6045ef0.png)
+
+![image](https://user-images.githubusercontent.com/123910027/231561878-ee3d7d9c-f6e8-49a8-b262-1caf77a90b02.png)
+
+![image](https://user-images.githubusercontent.com/123910027/231562016-a10d2f11-9a35-47f2-888f-83b847af2219.png)
+
+![image](https://user-images.githubusercontent.com/123910027/231562090-dbbf4e29-24fb-4123-9ba8-9dd5d4907bd6.png)
 
 <h3>Ferramentas, Linguagens, Frameworks e Banco de Dados utilizados:</h3>
 <br>
