@@ -28,7 +28,7 @@
 
 A ODS (Objetivos de Desenvolvimento Sustentável¹) 10: “Reduzir a desigualdade dentro dos países e entre eles” possui dez metas a serem alcançadas até 2030, sendo as principais delas: reduzir as desigualdades de renda ; promover a inclusão social, econômica e política universal; garantir oportunidades iguais e acabar com a discriminação;
 
-De acordo com o estudo pelo FGV Social, “O contingente de pessoas com renda domiciliar per capita de até R$ 497 mensais atingiu 62,9 milhões de brasileiros em 2021, o que representa 29,6% da população total do país”, o que denota uma disparidade econômica e social, resultando na dificuldade no alcance e sustentação do crescimento da renda exigido pela ODS.
+De acordo com o estudo pelo FGV Social, “O contingente de pessoas com renda domiciliar per capita de até R$ 497 mensais atingiu 62,9 milhões de brasileiros em 2021, o que representa 29,6% da população total do país”, o que denota uma disparidade econômica e social, resultando na dificuldade no alcance e sustentação do crescimento da renda exigido pela ODS. 
 
 ## Desenvolvimento:
 O software é um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. 
