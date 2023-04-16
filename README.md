@@ -1,5 +1,5 @@
 # Grafeat: Parte da Arte (Back-End)
-## ![WhatsApp Image 2023-03-30 at 11 11 35](https://user-images.githubusercontent.com/123910027/229203596-92f71f75-9f66-42eb-b159-7d43e1e6f6ad.jpeg)
+## ![logo Grafeat BR](https://ik.imagekit.io/wall90gifs/Grafeat/grafeat-logo-large.png?updatedAt=1681674131228)
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat-square)
@@ -86,7 +86,7 @@ MARCELO NERI (Brasil). Mapa da Nova Pobreza. Disponível em: https://cps.fgv.br/
 <div style="display: inline_block">
 - Java <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 - Spring <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-- Insomnia <img align="center" alt="Insomnia" height="70" src="https://lh3.googleusercontent.com/t9RZENc11VWioLAGpGh2NYHop8MmVwKRVVi_9CX6dDO_WG9oQBp7jRUmlT0dtHeIWAd6XKDPUj5YU7G7d6bCKSdbSI8=w128-h128-e365-rj-sc0x00ffffff">
+- Insomnia <img align="center" alt="Insomnia" height="70" src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/src/icons/icon.ico">
 - MySQL <img align="center" alt="MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
@@ -170,7 +170,7 @@ Estou animada para contribuir com minhas habilidades e aprender com desenvolvedo
 Entendo que esta profissão requer um alto nível de adaptabilidade e habilidades de resolução de problemas, e estou confiante em minhas capacidades. Não tenho medo de fazer perguntas ou buscar ajuda quando necessário e estou empenhada em me manter atualizada com as últimas tendências e melhores práticas para ser uma desenvolvedora bem-sucedida e de excelência.
 
 ##
-<img width="200px" src="https://user-images.githubusercontent.com/123910027/227934144-deab4127-fa4a-48e3-9653-71033e1ba670.jpg" alt="Wallace"></br>
+<img width="200px" src="https://ik.imagekit.io/wall90gifs/Profile/pfp-PhotoRoom.png?updatedAt=1681675226593" alt="Wallace"></br>
   - <a href="https://www.linkedin.com/in/wallacesb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   - <a href="https://github.com/Wall90s" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 <h3>Wallace Silva Brito</h3>
